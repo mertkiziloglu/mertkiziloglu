@@ -11,5 +11,6 @@
 #### 🤔 I’m looking for help with AI
 #### 💬 Ask me about Html css
 #### 📫 How to reach me:E-mail
+[![IMAGE ALT TEXT HERE](https://www.canva.com/icons/MAAkOmPMinE-black-twitter-bird-logo-social-media-icon/)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-<box-icon type='logo' name='linkedin-square'></box-icon>(http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
