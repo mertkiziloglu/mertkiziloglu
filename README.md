@@ -11,6 +11,23 @@
 #### 🤔 I’m looking for help with AI
 #### 💬 Ask me about Html css
 #### 📫 How to reach me:E-mail
-[![IMAGE ALT TEXT HERE](https://www.canva.com/icons/MAAkOmPMinE-black-twitter-bird-logo-social-media-icon/)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+<a href="https://www.linkedin.com/in/mertkiziloglu/">
+  <img align="left" alt="Mert's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mertkizilogluu">
+  <img align="left" alt="Mert's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/mertkizilogluu/">
+  <img align="left" alt="Mert's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
+
+
+
+
+
 
 
