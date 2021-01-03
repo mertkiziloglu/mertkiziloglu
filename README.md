@@ -12,4 +12,4 @@
 #### 💬 Ask me about Html css
 #### 📫 How to reach me:E-mail
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<box-icon type='logo' name='linkedin-square'></box-icon>(http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
