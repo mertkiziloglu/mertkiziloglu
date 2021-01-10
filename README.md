@@ -25,6 +25,10 @@
 <br/>
 <br/>
 
+## Github Profile Summary 
+##### Medium Badge
+<a href="https://github-readme-stats.vercel.app/api?username=mertkiziloglu&show_icons=true"/>
+
 
 
 
