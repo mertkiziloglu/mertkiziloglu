@@ -5,11 +5,10 @@
 
 
 
-#### 🔭 I’m currently working on C#
-#### 🌱 I’m currently learning AI Machine Learning and Data analysis
+#### 🔭 I’m currently working on C# and Angular
+#### 🌱 I’m currently learning OOP and java
 #### 👯 I’m looking to collaborate on C# or java
-#### 🤔 I’m looking for help with AI
-#### 💬 Ask me about Html css
+#### 🤔 I’m looking for help with anything
 #### 📫 How to reach me:E-mail
 
 
