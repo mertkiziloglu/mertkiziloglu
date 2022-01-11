@@ -5,10 +5,9 @@
 
 
 
-#### 🔭 I’m currently working on C# and Angular
+#### 🔭 I’m currently working on Java and React
 #### 🌱 I’m currently learning OOP and java
 #### 👯 I’m looking to collaborate on C# or java
-#### 🤔 I’m looking for help with anything
 #### 📫 How to reach me:E-mail
 
 
