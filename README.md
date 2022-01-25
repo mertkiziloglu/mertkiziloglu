@@ -23,12 +23,8 @@
 <br/>
 <br/>
 
-## Github Profile Summary 
-##### Medium Badge
 
-<a href="https://github-readme-stats.vercel.app/api?username=mertkiziloglu&show_icons=true/">
-  <img align="left" alt="Mert's" width="500px" src="https://github-readme-stats.vercel.app/api?username=mertkiziloglu&show_icons=true" />
-</a>
+
 
 
 
