@@ -5,7 +5,7 @@
 
 
 
-#### 🔭 I’m currently working on Java and React
+#### 🔭 I’m currently working on Spring and Microservices
 #### 🌱 I’m currently learning OOP and java
 #### 👯 I’m looking to collaborate on C# or java
 #### 📫 How to reach me:E-mail
