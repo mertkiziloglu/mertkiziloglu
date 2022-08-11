@@ -5,10 +5,9 @@
 
 
 
-#### 🔭 I’m currently working on Spring, Microservices and Spring Cloud
-#### 🌱 I’m currently learning OOP and java
-#### 👯 I’m looking to collaborate on C# or java
-#### 📫 How to reach me:E-mail
+#### 🔭 I’m currently working on Spring, Microservices, Spring Cloud, Spring Security, Spring Integration.
+#### 👯 I’m looking to collaborate on  java
+#### 📫 How to reach me: linkedin
 
 
 <a href="https://www.linkedin.com/in/mertkiziloglu/">
