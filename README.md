@@ -9,7 +9,6 @@
 #### 👯 I’m looking to collaborate on  java
 #### 📫 How to reach me: linkedin
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mertkiziloglu&theme=dark&date_format=j%2Fn%5B%2FY%5D&fire=DD2727)](https://git.io/streak-stats)
 
 
 <a href="https://www.linkedin.com/in/mertkiziloglu/">
