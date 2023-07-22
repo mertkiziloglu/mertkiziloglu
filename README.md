@@ -5,8 +5,6 @@
 
 
 
-#### 🔭 I’m currently working on Spring, Microservices, Spring Cloud, Spring Security, Spring Integration.
-#### 👯 I’m looking to collaborate on  java
 #### 📫 How to reach me: linkedin
 
 
